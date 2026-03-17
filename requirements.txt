@@ -4,4 +4,3 @@ regex
 gensim
 scikit-learn
 streamlit
-jupyter
