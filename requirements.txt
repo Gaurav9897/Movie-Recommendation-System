@@ -1,6 +1,5 @@
 pandas
 numpy
 regex
-gensim==4.3.2
 scikit-learn
 streamlit
