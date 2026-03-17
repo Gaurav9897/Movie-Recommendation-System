@@ -1,0 +1,7 @@
+pandas
+numpy
+regex
+gensim
+scikit-learn
+streamlit
+jupyter
